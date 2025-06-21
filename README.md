@@ -7,6 +7,13 @@ This project demonstrates a full data pipeline on Azure using:
 - Delta Lake
 - Power BI
 
+## 📥 Data Source
+
+This project uses data from the [NYC Taxi & Limousine Commission Open Data API](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+
+The specific dataset used is:  
+[Yellow Taxi Trip Records – 2024]
+
 ## Medallion Architecture
 ![Architecture](https://github.com/adnanshabbir01/nyc-yellow-taxi/blob/main/Architecture.png)
 
