@@ -8,7 +8,7 @@ This project demonstrates a full data pipeline on Azure using:
 - Power BI
 
 ## Medallion Architecture
-
+![Architecture](nyc-yellow-taxi/blob/main/Architecture.png)
 
 ## Steps:
 1. Raw data ingested using NYC Taxi API → Data Factory → Bronze Layer.
